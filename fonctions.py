@@ -79,17 +79,3 @@ def alter_feed(key,value,change):
 
     else :
         print(f"ERROR : Le nom du flux {key} n'existe pas dans le fichier db.json")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
